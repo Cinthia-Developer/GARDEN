@@ -1,5 +1,5 @@
 body{ 
-    background-image: url("...........................................");
+    background-image: url("../IMAGES/fondo.jpg");
      background-size: cover;
     background-attachment: fixed;
 }
@@ -11,7 +11,7 @@ h1{
     font-family: cursive;
     font-size: 150px;
     color: white;
-    background-image:url(".........................................");
+    background-image:url("../IMAGES/titulo.jpg");
      background-size: cover;
     background-attachment: fixed;
 }
@@ -32,7 +32,7 @@ h3 {
     text-decoration:underline;
     background-color:deeppink;
     text-align: center;
-    background-image: url("............................................");
+    background-image: url("../IMAGES/subtitulos.jpg");
 }
 h1:hover {
     color:deeppink;
