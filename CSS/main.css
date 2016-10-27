@@ -1,22 +1,58 @@
-body{ background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOGWjKEesbw09lv7q_qb5OpNbDFSHc27K6KXkikkjCeWHKVLOn")    }
+body{ 
+    background-image: url("...........................................");
+     background-size: cover;
+    background-attachment: fixed;
+}
 
 h1{
     text-align:center;
-    color:#696969;
-    border-style:300px;
-        border-bottom-left-radius:whait;
+    border-color:white;
+    border-style:800px;
     font-family: cursive;
     font-size: 150px;
-    background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUUmt0NJW3dGjJzIEFnCMQKG3TGZH8h8aqVrCvzGPtQuS6iycM3g")
+    color: white;
+    background-image:url(".........................................");
+     background-size: cover;
+    background-attachment: fixed;
 }
-h2     {
-    
+h2{
+   font-family: sans-serif;
+    font-size: 80px;
+    color: crimson;
+    text-indent:inherit;
+    text-decoration:inherit;
+    text-align: center;
 }
 
 h3 {
-    text-decoration-color: crimson;
-    border: 200px;
-    font-family: fantasy;
-    font-size: 100px;
+    font-family:serif;
+    font-size: 50px;
+    color:black;
+    text-indent:inherit;
+    text-decoration:underline;
+    background-color:deeppink;
+    text-align: center;
+    background-image: url("............................................");
+}
+h1:hover {
+    color:deeppink;
+    font-size: 120px;  
+    transition: all 2s;
+}
+h2:hover {
+    color:white;
+    font-size: 120px;  
+    transition: all 2s;
+}
+h3:hover {
+    color:white;
+    font-size: 100px;  
+    transition: all 2s;
+}
+
+p{
+    font-family: monospace;
+    font-size: 20px;
+    color:snow;
     
 }
